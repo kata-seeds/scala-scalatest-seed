@@ -1,4 +1,4 @@
-# [ScalaTest Seed](https://github.com/kata-seeds/scala-scalatest-seed): Scala + ScalaTest
+# [Kata Seeds](https://github.com/kata-seeds/scala-scalatest-seed): Scala + ScalaTest
 [![Build Status](https://travis-ci.org/kata-seeds/scala-scalatest-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/scala-scalatest-seed)
 
 ## Getting Started
