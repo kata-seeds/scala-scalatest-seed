@@ -1,4 +1,4 @@
-# [ScalaTest Seed](https://github.com/kata-seeds/scalatest-seed): Language (+ optionally a test framework)
+# [ScalaTest Seed](https://github.com/kata-seeds/scalatest-seed): Scala + ScalaTest
 [![Build Status](https://travis-ci.org/kata-seeds/scalatest-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/scalatest-seed)
 
 ## Getting Started
