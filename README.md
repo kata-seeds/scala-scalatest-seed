@@ -1,12 +1,12 @@
-# [ScalaTest Seed](https://github.com/kata-seeds/scalatest-seed): Scala + ScalaTest
-[![Build Status](https://travis-ci.org/kata-seeds/scalatest-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/scalatest-seed)
+# [ScalaTest Seed](https://github.com/kata-seeds/scala-scalatest-seed): Scala + ScalaTest
+[![Build Status](https://travis-ci.org/kata-seeds/scala-scalatest-seed.svg?branch=master)](https://travis-ci.org/kata-seeds/scala-scalatest-seed)
 
 ## Getting Started
 
 Clone this repo with `git`:
 
-    git clone https://github.com/kata-seeds/scalatest-seed.git
-    cd scalatest-seed
+    git clone https://github.com/kata-seeds/scala-scalatest-seed.git
+    cd scala-scalatest-seed
 
 Install dependencies and run your tests with `make`:
 

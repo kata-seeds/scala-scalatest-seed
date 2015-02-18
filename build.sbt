@@ -1,4 +1,4 @@
-name := "scalatest-seed"
+name := "scala-scalatest-seed"
 
 version := "0.0.1"
 
